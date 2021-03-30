@@ -1,0 +1,6 @@
+[book]
+authors = ["suhanyujie"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Hello Japanese"
